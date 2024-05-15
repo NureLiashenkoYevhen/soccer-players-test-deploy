@@ -30,6 +30,7 @@ export class PlayerListComponent implements OnInit {
     
   }
 
+  //Added Comment
   addPlayer() {
     const dialogConfig = new MatDialogConfig();
     dialogConfig.disableClose = true;
